@@ -39,6 +39,9 @@ void setup() {
 
   y[x.length-1] = height;  // Set base y-coordinate
 
+// changes position
+//  x[x.length-2] = width/2;     // Set base x-coordinate
+//  y[x.length-2] = height;  // Set base y-coordinate
 }
 
 
