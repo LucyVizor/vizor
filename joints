@@ -1,4 +1,5 @@
-int numSegments = 6;
+int numSegments = 3;
+//less amount of segments
 
 float[] x = new float[numSegments];
 
